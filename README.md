@@ -33,7 +33,7 @@ The project uses Gradle 9.6.0, Android Gradle Plugin 9.4.1, and Java 11 source c
 ## Clone the Project
 
 ```bash
-git clone https://github.com/print1Username/COS30017-Assignment-3--Task-2.git
+git clone https://github.com/COS30017-Software-Development/COS30017-Assignment-3--Task-2.git
 cd COS30017-Assignment-3--Task-2
 ```
 
